@@ -1,0 +1,6 @@
+{
+  "cinema": "Cinema Мод",
+  "cinema.vlc.windows.error": "[Cinema] Пожалуйста установите \"vlc\" в mods",
+  "cinema.vlc.linux.error": "[Cinema] Пожалуйста установите \"vlc\" используя linux репозиторий",
+  "cinema.vlc.macos.error": "[Cinema] Пожалуйста установите \"vlc\""
+}
